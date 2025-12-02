@@ -95,6 +95,7 @@ An interactive dashboard was created highlighting:
 ---
 
  📈 Dashboard Overview
+<img width="1129" height="632" alt="Screenshot 2025-12-02 170705" src="https://github.com/user-attachments/assets/8fbae345-b5cf-45c7-a3c0-4c37da87a2b3" />
 
 
 The dashboard provides:
